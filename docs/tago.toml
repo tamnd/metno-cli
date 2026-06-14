@@ -1,0 +1,10 @@
+title       = "metno"
+baseURL     = "https://metno-cli.tamnd.com/"
+description = "A command line for metno."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/metno-cli"
